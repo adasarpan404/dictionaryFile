@@ -1,0 +1,4 @@
+hello:A greeting expression
+golang:A programming language
+world:a particular part of the earth or group of countries
+travel:to make a journey of a particular distance
